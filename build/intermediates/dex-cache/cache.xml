@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-08b16856724fa3fb4e27eb337c3e2a21cf114629.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\pre-dexed\debug\classes-c581842ab28a6b70ff0198125684bee456d23a38.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\pre-dexed\debug\classes-c046c8358322944c17eea4fc962ee2bbe5bec9b3.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\pre-dexed\debug\classes-acec6f0231e7a1173ed0667f5ebc3d9e87650070.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\pre-dexed\debug\classes-3a60681d489ca9ff64ad4b82955fcf2824828e5b.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\pre-dexed\debug\classes-b9f246659e557d3f6813366ead277d738696930d.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\pre-dexed\debug\classes-ca24f7d2a4c027c0380aaef16b452a4774f8a497.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\pre-dexed\debug\classes-dbf91e00a754f186613e51d33368e492b07d10f0.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\pre-dexed\debug\classes-e0dca48c809d0cbcc63a418d65083e58124854ef.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\pre-dexed\debug\classes-c2783ee722635ed6fe33dadca14d253f25a25423.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\pre-dexed\debug\classes-0ff7d555609b8efc9bbff97c3573b21269496776.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-ab40b6ab868554bd55823cd971575d03cf0e39bf.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\exploded-aar\com.google.maps.android\android-maps-utils\0.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4b1a7fac58cc85b115adee653a10b6300f90951a">
+        <dex dex="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\pre-dexed\debug\classes-e6fc773786f3491d5b209a3960fa0c6a7e6f02a4.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\pre-dexed\debug\classes-9f234c7675029e39040d347887b85e1b476d095a.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\pre-dexed\debug\classes-c52b093fd763d028e9e0c6b810a683b181c2ae31.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\pre-dexed\debug\classes-4585393243448fb1cb58c445b13b4b2a939b55ad.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\pre-dexed\debug\classes-d23a8a68bb1b8a3d86a741910d873961b48b20fb.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\pre-dexed\debug\classes-3cd41e8f5eee223611fef8711e22631ff06248b2.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\pre-dexed\debug\classes-b5fced80bd6e7b12e58d5747ff886bdf905e55a5.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\pre-dexed\debug\classes-db6b3aa0c8e7b3ef68e1962ecc7e4f175073dcd6.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\pre-dexed\debug\classes-4418529ec9759408835353987f72d00185b18176.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-43e1dbb1e9d9413a965e3523bc7bb353eb99eb12.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\pre-dexed\debug\classes-723f0f8b5e67423f30bf5ea028b4cabfb11a62ac.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\pre-dexed\debug\classes-64247364fdba01e60129b7e81a2781ad3abc3274.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\pre-dexed\debug\classes-f8dff15af6f6c9879ee4b7e09da7a984ae6d5274.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\pre-dexed\debug\classes-26461f4600eef4ee1329f9e9d4ad6c9e4a5a2d9a.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\pre-dexed\debug\classes-13f9bfcf36d1945cd69f37c581e9cce36580eb31.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="D:\AndroidStudioProjects\FarmerHelp\app\build\intermediates\pre-dexed\debug\classes-e834a613f6ad9355b611b5dbf046488453b875c1.jar" />
+    </item>
+
+</items>
